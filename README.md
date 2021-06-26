@@ -14,4 +14,7 @@
  shots of the architecture to understand it.
  
  
+ ## Note: This Tensorflow 1!
+ 
+ 
  
